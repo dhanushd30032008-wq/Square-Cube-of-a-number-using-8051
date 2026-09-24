@@ -28,6 +28,10 @@ END
 
 ```
 
+## CALCULATION
+<img width="255" height="214" alt="image" src="https://github.com/user-attachments/assets/ceb7846f-c0cc-4478-b976-1c7baad64b81" />
+
+
 ## OUTPUT
 <img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/09bd557c-e0b2-4b92-92c1-040b14815817" />
 
@@ -67,6 +71,9 @@ END
 
 
 ```
+
+### CALCULATION 
+<img width="256" height="223" alt="image" src="https://github.com/user-attachments/assets/18e2aa1f-9da7-443a-a6ec-7a3e82c0dbd1" />
 
 
 ## OUTPUT
